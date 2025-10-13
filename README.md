@@ -4,7 +4,7 @@
 This repository contains the work completed as part of the **Master’s Project Arbeit** titled:  
 **“Integration of Hybrid System Identification using Symbolic Regression into a Framework for Cyber-Physical System Modeling.”**
 
-The project focuses on integrating **hybrid system identification** techniques — specifically **symbolic regression** — into an existing modeling framework for **cyber-physical systems (CPS)**.  
+The project focuses on integrating **hybrid system identification** techniques, specifically **symbolic regression**, into an existing modeling framework for **cyber-physical systems (CPS)**.  
 The objective is to enhance the framework’s capability to model complex, nonlinear, and hybrid dynamics found in CPS by leveraging data-driven symbolic representations.
 
 ## 📂 Repository Contents  
